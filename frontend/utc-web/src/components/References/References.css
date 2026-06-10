@@ -1,0 +1,36 @@
+.references-section {
+  padding: 100px 0;
+  background: #f8f9fa;
+}
+
+.references-section h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #02152f;
+  margin-bottom: 15px;
+}
+
+.references-section p {
+  color: #666;
+  font-size: 17px;
+}
+
+.reference-card {
+  height: 100px;
+  background: white;
+  border-radius: 14px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #0c3874;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  transition: .3s;
+}
+
+.reference-card:hover {
+  transform: translateY(-6px);
+  color: #0d6efd;
+}

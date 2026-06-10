@@ -1,0 +1,33 @@
+.contact-section {
+    padding: 100px 0;
+    background: #f8f9fa;
+}
+
+.contact-form,
+.contact-info {
+    background: white;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+.contact-info p {
+    margin-bottom: 15px;
+}
+
+.contact-info svg {
+    color: #0d6efd;
+    margin-right: 10px;
+}
+.contact-info a {
+  color: #02152f;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  color: #0d6efd;
+}
+
+.contact-info .btn {
+  color: white;
+}

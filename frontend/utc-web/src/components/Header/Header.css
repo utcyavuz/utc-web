@@ -1,0 +1,18 @@
+.utc-logo{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+}
+.nav-item {
+    font-size: 16px;
+    font-weight: 600;
+}
+.navbar-nav a {
+  color: #02152f;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.navbar-nav a:hover {
+  color: #0d6efd;
+}
