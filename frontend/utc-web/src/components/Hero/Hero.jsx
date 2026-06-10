@@ -22,12 +22,13 @@ function Hero() {
                         </p>
 
                         <div className="d-flex gap-3 mt-4">
-                            <button className="btn btn-primary btn-lg">
-                              <a href="#services">Hizmetlerimiz</a>
-                            </button>
-                            <button className="btn btn-outline-light btn-lg">
-                                <a href="#contact">İletişime Geç</a>
-                            </button>
+                            <a href="#services" className="btn btn-primary btn-lg">
+                                Hizmetlerimiz
+                            </a>
+
+                            <a href="#contact" className="btn btn-outline-light btn-lg">
+                                İletişime Geç
+                            </a>
                         </div>
                     </div>
                     <div className="col-lg-6 text-center">
