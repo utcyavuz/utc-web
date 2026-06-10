@@ -23,10 +23,10 @@ function Hero() {
 
                         <div className="d-flex gap-3 mt-4">
                             <button className="btn btn-primary btn-lg">
-                              Hizmetlerimiz
+                              <a href="#services">Hizmetlerimiz</a>
                             </button>
                             <button className="btn btn-outline-light btn-lg">
-                                İletişime Geç
+                                <a href="#contact">İletişime Geç</a>
                             </button>
                         </div>
                     </div>
