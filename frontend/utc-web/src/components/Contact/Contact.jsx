@@ -106,7 +106,7 @@ function Contact() {
                             <p>
                                 <FaEnvelope />
                                     <a href="mailto:destek@utcyazilim.com">
-                                        @utcyazilim.com
+                                        destek@utcyazilim.com
                                     </a>
                             </p>
 
