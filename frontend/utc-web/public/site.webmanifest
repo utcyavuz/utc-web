@@ -1,6 +1,7 @@
 {
-  "name": "UTC Yaz\u0131l\u0131m ve Dan\u0131\u015fmanl\u0131k",
-  "short_name": "UTC Yaz\u0131l\u0131m",
+  "name": "UTC Yazılım ve Danışmanlık",
+  "short_name": "UTC Yazılım",
+  "description": "Logo ERP, özel yazılım, API entegrasyonları ve e-Dönüşüm çözümleri.",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -15,5 +16,6 @@
   ],
   "theme_color": "#0B5ED7",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "/"
 }
